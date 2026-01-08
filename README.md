@@ -4,7 +4,7 @@ Kratosni is a sophisticated, end-to-end streaming conversational AI built as the
 
 ---
 
-### 🚀 [Try the Live Demo Here!](https://kratosni-voice-agent.onrender.com)
+### 🚀 [Try the Live Demo Here!]
 
 ---
 
@@ -41,8 +41,6 @@ The application uses a decoupled frontend-backend architecture:
 
 The easiest way to try Kratosni is to use the live version deployed on Render.
 
-**[➡️ Click here to access the live demo.](https://kratosni-voice-agent.onrender.com)**
-
 ### Local Installation
 
 If you wish to run the project on your local machine, follow these instructions.
@@ -55,7 +53,7 @@ If you wish to run the project on your local machine, follow these instructions.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Man-Aman-Man/Voice_Agent.git](https://github.com/Man-Aman-Man/Voice_Agent.git)
+    git clone [https://github.com/topdev22/AI_voice_agent.git](https://github.com/topdev22/AI_voice_agent.git)
     cd Voice_Agent
     ```
 
